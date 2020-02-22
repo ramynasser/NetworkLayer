@@ -129,8 +129,8 @@
 		CF98EC782401485B00345277 /* NetworkLayer */ = {
 			isa = PBXGroup;
 			children = (
-				CF98ECC92401575F00345277 /* Example */,
 				CF98ECC82401572F00345277 /* Framework */,
+				CF98ECC92401575F00345277 /* Example */,
 				CF98EC792401485B00345277 /* AppDelegate.swift */,
 				CF98EC7B2401485B00345277 /* SceneDelegate.swift */,
 				CF98EC7F2401485B00345277 /* Main.storyboard */,
